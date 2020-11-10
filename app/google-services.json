@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "605162864442",
+    "firebase_url": "https://thuctaptotnghiep-42ecd.firebaseio.com",
+    "project_id": "thuctaptotnghiep-42ecd",
+    "storage_bucket": "thuctaptotnghiep-42ecd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605162864442:android:e4a3c265595507f8f39a03",
+        "android_client_info": {
+          "package_name": "com.example.thuctaptotnghiep"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605162864442-od4vs0bi6ng921bn605brs3lu01kepsk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoy-IAK5inUmUrgiWzd4q5GuX-agp-o2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605162864442-od4vs0bi6ng921bn605brs3lu01kepsk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
